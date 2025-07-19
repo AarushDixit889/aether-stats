@@ -12,7 +12,7 @@ AetherStats CLI is your intelligent assistant designed to streamline and enhance
 4.  Global Options
 5.  Commands
       * `init`
-      * `create`]
+      * `create`
       * `register
       * `list`
       * `status`
