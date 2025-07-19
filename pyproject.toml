@@ -1,0 +1,11 @@
+[project]
+name = "aether-stats"
+version = "0.1.0"
+description = "Aether Stats is an open-souce project created for statician"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "auto-py-to-exe>=2.46.0",
+    "pydantic-ai>=0.3.4",
+    "typer>=0.16.0",
+]
