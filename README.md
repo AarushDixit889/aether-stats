@@ -6,24 +6,24 @@ AetherStats CLI is your intelligent assistant designed to streamline and enhance
 
 ## Table of Contents
 
-1.  [Introduction](https://www.google.com/search?q=%23introduction)
-2.  [Key Features](https://www.google.com/search?q=%23key-features)
-3.  [Installation](https://www.google.com/search?q=%23installation)
-4.  [Global Options](https://www.google.com/search?q=%23global-options)
-5.  [Commands](https://www.google.com/search?q=%23commands)
-      * [`init`](https://www.google.com/search?q=%23init)
-      * [`create`](https://www.google.com/search?q=%23create)
-      * [`register`](https://www.google.com/search?q=%23register)
-      * [`list`](https://www.google.com/search?q=%23list)
-      * [`status`](https://www.google.com/search?q=%23status)
-      * [`commit`](https://www.google.com/search?q=%23commit)
-      * [`explore`](https://www.google.com/search?q=%23explore)
-      * [`analyze`](https://www.google.com/search?q=%23analyze)
-      * [`gen-logs`](https://www.google.com/search?q=%23gen-logs)
-      * [`generate`](https://www.google.com/search?q=%23generate)
-6.  [Usage Examples](https://www.google.com/search?q=%23usage-examples)
-7.  [Contributing](https://www.google.com/search?q=%23contributing)
-8.  [License](https://www.google.com/search?q=%23license)
+1.  Introduction
+2.  Key Features
+3.  Installation
+4.  Global Options
+5.  Commands
+      * `init`
+      * `create`]
+      * `register
+      * `list`
+      * `status`
+      * `commit`
+      * `explore`
+      * `analyze`
+      * `gen-logs`
+      * `generate`
+6.  Usage Examples
+7.  Contributing
+8.  License
 
 -----
 
